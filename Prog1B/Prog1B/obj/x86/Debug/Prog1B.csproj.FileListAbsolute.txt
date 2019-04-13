@@ -1,0 +1,6 @@
+C:\Users\Tanner\Desktop\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\Tanner\Desktop\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\Tanner\Desktop\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1B.csprojAssemblyReference.cache
+C:\Users\Tanner\Desktop\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1B.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\Desktop\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\Tanner\Desktop\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
